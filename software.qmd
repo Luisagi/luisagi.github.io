@@ -1,0 +1,15 @@
+---
+title: "Software & Datasets"
+---
+
+## R Packages
+
+**enmpa** (2024)\
+Ecological niche modeling using presence/absence data.\
+**Role**: Creator and maintainer.\
+[{{< fa brands github >}} github.com/Luisagi/enmpa](https://github.com/Luisagi/enmpa)
+
+**kuenm2** (Ongoing)\
+Detailed development and evaluation of ecological niche models.\
+**Role**: Contributor and co-maintainer.\
+[{{< fa brands github >}} github.com/marlonecobos/kuenm2](https://github.com/marlonecobos/kuenm2)
